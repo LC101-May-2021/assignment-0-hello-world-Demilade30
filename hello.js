@@ -1,7 +1,7 @@
 function hello() {
-	// TODO: change this string so that your program prints "Hello world!" 
+	// TODO: change this string so that your program prints 
 	// when you hit the replit run button
-	return "Hello!";
+	console.log("Hello World!");
 }
  
 module.exports = hello;
